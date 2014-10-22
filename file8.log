@@ -1,0 +1,142 @@
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+[10/29/2012 14:29.08.892] WudfCoInstaller: ReadWdfSection: Checking WdfSection [Basic_Install.Wdf]
+
+[10/29/2012 14:29.08.975] WudfCoInstaller: UMDF Service WpdFs is already installed - removing existing settings in preparation for setting new ones.
+
+[10/29/2012 14:29.09.000] WudfCoInstaller: Configuring UMDF Service WpdFs.
+
+[10/29/2012 14:29.09.020] WudfCoInstaller: ImpersonationLevel set to 2
+
+[10/29/2012 14:29.09.077] WudfCoInstaller: Using "Win7" service configuration
+
+[10/29/2012 14:29.09.891] WudfCoInstaller: Service WudfSvc is already running.
+
+[10/29/2012 14:29.09.997] WudfCoInstaller: Final status: error(0) The operation completed successfully.
+
+
+[10/29/2012 14:29.10.804] WudfCoInstaller: Created marker file C:\Windows\system32\drivers\Msft_User_WpdFs_01_09_00.Wdf.
+
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+Input Install: Not a PS2 device.
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+Input Install: Not a PS2 device.
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+[11/11/2012 16:29.11.158] WudfCoInstaller: ReadWdfSection: Checking WdfSection [Basic_Install.Wdf]
+
+[11/11/2012 16:29.11.267] WudfCoInstaller: UMDF Service WpdFs is already installed - removing existing settings in preparation for setting new ones.
+
+[11/11/2012 16:29.11.283] WudfCoInstaller: Configuring UMDF Service WpdFs.
+
+[11/11/2012 16:29.11.361] WudfCoInstaller: ImpersonationLevel set to 2
+
+[11/11/2012 16:29.11.407] WudfCoInstaller: Using "Win7" service configuration
+
+[11/11/2012 16:29.11.891] WudfCoInstaller: Service WudfSvc is already running.
+
+[11/11/2012 16:29.11.953] WudfCoInstaller: Final status: error(0) The operation completed successfully.
+
+
+[11/11/2012 16:29.12.749] WudfCoInstaller: Created marker file C:\Windows\system32\drivers\Msft_User_WpdFs_01_09_00.Wdf.
+
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
+AudMig: No audio endpoint migration settings found 0x2
